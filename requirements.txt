@@ -1,0 +1,12 @@
+# Python Dependencies for Claude Code Learning Project
+
+# No external dependencies required for the basic project!
+# This program only uses Python standard library.
+
+# However, if you want to extend this project later with:
+# - Asana integration: asana
+# - GitHub integration: PyGithub
+# - Environment variables: python-dotenv
+
+# You can install them with:
+# pip install asana PyGithub python-dotenv
